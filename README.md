@@ -1,3 +1,3 @@
 # Oi boi!
 
-It's empty rigth now but not forever!
+It's empty right now but not forever!
